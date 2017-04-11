@@ -20,4 +20,4 @@ int w4_2_2(void) {
 	}
 	printf("%d %d %d", a, b, c);
 	return 0;
-} 0¤½    
+}

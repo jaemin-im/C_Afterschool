@@ -37,7 +37,14 @@
     <ClCompile Include="4_2_0.c" />
     <ClCompile Include="4_2_1.c" />
     <ClCompile Include="4_2_2.c" />
+    <ClCompile Include="5_1_0.c" />
+    <ClCompile Include="5_1_1.c" />
+    <ClCompile Include="5_1_2.c" />
+    <ClCompile Include="5_2_0.c" />
+    <ClCompile Include="5_2_1.c" />
+    <ClCompile Include="5_3_4.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="5_1_3.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
