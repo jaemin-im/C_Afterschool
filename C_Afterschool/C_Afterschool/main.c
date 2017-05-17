@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	w5_3_4();
+	w8_1_1();
 	return 0;
 }
