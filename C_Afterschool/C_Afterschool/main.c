@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main(void)
+int main(int argc, char** argv)
 {
-	w8_1_1();
+	w9_1_0_0();
 	return 0;
 }

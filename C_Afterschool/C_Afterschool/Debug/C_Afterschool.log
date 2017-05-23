@@ -1,8 +1,3 @@
-﻿  main.c
-c:\users\dsm2017\google 드라이브\자료\프로젝트\github\c_afterschool\c_afterschool\c_afterschool\main.c(5): warning C4013: 'w8_1_1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  8_1_1.c
-c:\users\dsm2017\google 드라이브\자료\프로젝트\github\c_afterschool\c_afterschool\c_afterschool\8_1_1.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
-  코드를 생성하고 있습니다...
+﻿  9_1_0_0.c
   C_Afterschool.vcxproj -> C:\Users\dsm2017\Google 드라이브\자료\프로젝트\GitHub\C_Afterschool\C_Afterschool\Debug\C_Afterschool.exe
   C_Afterschool.vcxproj -> C:\Users\dsm2017\Google 드라이브\자료\프로젝트\GitHub\C_Afterschool\C_Afterschool\Debug\C_Afterschool.pdb (Partial PDB)
